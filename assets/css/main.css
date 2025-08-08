@@ -890,6 +890,7 @@ section,
 
 .portfolio .portfolio-content .portfolio-info .details-link {
   left: 50%;
+  transform: translateX(-50%);
   font-size: 34px;
   line-height: 0;
 }
